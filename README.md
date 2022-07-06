@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mwanikigeorge a google cloud certified engineer
-- 👀 I’m interested in Frontend development using HTML, CSS, javascript, vuejs, nuxtjs and cloud
-- 🌱 I’m currently learning React and Nodejs and MongoDb
+- 👋 Hi, I’m @mwanikigeorge a Senior frontend developer and google cloud certified engineer
+- 👀 I’m interested in Frontend development using javascript, vuejs, nuxtjs, tailwind and GCP
+- 🌱 I’m currently learning Nodejs and Ember
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 How to reach me mwaniki.george@gmail.com
 
